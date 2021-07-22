@@ -1,11 +1,11 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm minseol
 - 🎓 I majored in **Computer Science and Engineering** in [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2017.03 ~ ing)
 - ⌨️  I can use `C++`
-- 🤔 (괄호지우고 인생 모티베이션)
+- 🤔 (준비된 자가 기회를 잡는다.)
 
 ## Experience
 - [활동이름](링크) <-괄호양식 맞춰줘야해요. 링크 없으면 그냥 활동이름만 쓰시면돼요
-[대외활동]
+
 ## Project
 - [프로젝트명(기간)](링크)
 
