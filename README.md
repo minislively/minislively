@@ -25,7 +25,7 @@
 
 ## ☎️Contact me
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/프로필이름)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/프로필이름)](https://blog.naver.com/sri07091)
 [![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/프로필이름)](https://github.com/minislively)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/프로필이름/)](https://www.facebook.com/프로필이름/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iknowwhatifeel/)](https://www.instagram.com/프로필이름/)
