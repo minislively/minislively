@@ -1,5 +1,5 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm minseol
-- 🎓 I majored in **Computer Science and Engineering** in [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2017.03 ~ ing)
+- 🎓 I majored in **Computer Science and Engineering** in [Sunmoon University](https://lily.sunmoon.ac.kr/MainDefault.aspx?la=ko) (2019.03 ~ ing)
 - ⌨️  I can use `C++`
 - 🤔 (준비된 자가 기회를 잡는다.)
 
@@ -13,7 +13,8 @@
 - ICPC 2021 참여
 
 # Solved.ac Stats
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=정올아이디)](https://solved.ac/sri07091/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=정올아이디)]
+ http://jungol.co.kr/theme/jungol/status.php?sca=&sop=and&fcode=&fid=sri07091&flang=0
 
 # Github Stats
 <a href='#'>
