@@ -6,18 +6,6 @@
 ## Activity
 - ICPC 2021 참여
 
-# Solved.ac Stats
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=정올아이디)]
- http://jungol.co.kr/theme/jungol/status.php?sca=&sop=and&fcode=&fid=sri07091&flang=0
-
-# Github Stats
-<a href='#'>
- <img src = "https://github-readme-stats.vercel.app/api?username=leonilpark&theme=react&show_icons=true&hide_border=true" height = "180px">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonilpark&theme=react&layout=compact" height = "180px">
-</a>
-<div align=center>
- 
-
 ## ☎️Contact me
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/프로필이름)](https://blog.naver.com/sri07091)
